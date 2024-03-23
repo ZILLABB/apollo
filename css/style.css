@@ -74,6 +74,7 @@ body {
     font-weight: 400;
     overflow-x: hidden;
     text-rendering: optimizelegibility;
+    
 }
 
 @media (max-width: 767px) {
@@ -1660,6 +1661,7 @@ a.dropdown-item.active {
     .bs-slider{
         max-height: 450px;
     }
+    
 
 }
 
@@ -1684,6 +1686,7 @@ a.dropdown-item.active {
     .carousel-indicators {
       display: none;
     }
+    
 
 }
 
@@ -4150,8 +4153,8 @@ Inner Css Style
 
 .inner-area h4 {
     color: #fff;
-    font-size: 58px;
-    font-weight: 600;
+    font-size: 44px;
+    font-weight: 400;
     letter-spacing: 0.9px;
     text-transform: uppercase;
 }
@@ -4968,6 +4971,7 @@ Footer Copy Right  Css Style
         top: -10px !important;
         left: 171px !important;
     }
+    
 
 }
 
@@ -5671,6 +5675,8 @@ Footer Copy Right  Css Style
         padding-left: 30px;
         margin-bottom: 20px;
     }
+   
+    
 }
 
 /*======= ****========****=======
